@@ -105,7 +105,7 @@
     font-style: normal;
     font-weight: normal;
     src: local('Isi Agni'), local('Isi Agni'),
-    url(/assets/font/Isi-Agni-_Sinhala-Font-Guru_.woff) format('woff');
+    url(../assets/font/Isi-Agni-_Sinhala-Font-Guru_.woff) format('woff');
 }
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
